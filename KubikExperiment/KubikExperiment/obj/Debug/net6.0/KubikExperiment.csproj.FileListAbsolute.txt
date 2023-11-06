@@ -1,0 +1,15 @@
+A:\BudgetModel\KubikExperiment\KubikExperiment\KubikExperiment\bin\Debug\net6.0\KubikExperiment.exe
+A:\BudgetModel\KubikExperiment\KubikExperiment\KubikExperiment\bin\Debug\net6.0\KubikExperiment.deps.json
+A:\BudgetModel\KubikExperiment\KubikExperiment\KubikExperiment\bin\Debug\net6.0\KubikExperiment.runtimeconfig.json
+A:\BudgetModel\KubikExperiment\KubikExperiment\KubikExperiment\bin\Debug\net6.0\KubikExperiment.dll
+A:\BudgetModel\KubikExperiment\KubikExperiment\KubikExperiment\bin\Debug\net6.0\KubikExperiment.pdb
+A:\BudgetModel\KubikExperiment\KubikExperiment\KubikExperiment\obj\Debug\net6.0\KubikExperiment.csproj.AssemblyReference.cache
+A:\BudgetModel\KubikExperiment\KubikExperiment\KubikExperiment\obj\Debug\net6.0\KubikExperiment.GeneratedMSBuildEditorConfig.editorconfig
+A:\BudgetModel\KubikExperiment\KubikExperiment\KubikExperiment\obj\Debug\net6.0\KubikExperiment.AssemblyInfoInputs.cache
+A:\BudgetModel\KubikExperiment\KubikExperiment\KubikExperiment\obj\Debug\net6.0\KubikExperiment.AssemblyInfo.cs
+A:\BudgetModel\KubikExperiment\KubikExperiment\KubikExperiment\obj\Debug\net6.0\KubikExperiment.csproj.CoreCompileInputs.cache
+A:\BudgetModel\KubikExperiment\KubikExperiment\KubikExperiment\obj\Debug\net6.0\KubikExperiment.dll
+A:\BudgetModel\KubikExperiment\KubikExperiment\KubikExperiment\obj\Debug\net6.0\refint\KubikExperiment.dll
+A:\BudgetModel\KubikExperiment\KubikExperiment\KubikExperiment\obj\Debug\net6.0\KubikExperiment.pdb
+A:\BudgetModel\KubikExperiment\KubikExperiment\KubikExperiment\obj\Debug\net6.0\KubikExperiment.genruntimeconfig.cache
+A:\BudgetModel\KubikExperiment\KubikExperiment\KubikExperiment\obj\Debug\net6.0\ref\KubikExperiment.dll
