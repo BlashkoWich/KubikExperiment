@@ -9,7 +9,7 @@ public static class ExperimentMain
         var repetitionsTarget = 0;
         for (var i = 0; i < ExperimentConfig.Repetitions; i++)
         {
-            var next = random.Next(ExperimentConfig.MinKubikValue, ExperimentConfig.MaxKubikValue);
+            var next = random.Next(ExperimentConfig.MinKubikValue, ExperimentConfig.MaxKubikValue + 1);
 
             if (next == ExperimentConfig.TargetValue) 
                 repetitionsTarget += 1;
